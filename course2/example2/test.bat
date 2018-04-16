@@ -1,0 +1,2 @@
+python ./model.py
+pause
