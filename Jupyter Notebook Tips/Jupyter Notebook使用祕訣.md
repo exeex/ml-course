@@ -1,4 +1,4 @@
-#Jupyter Notebook 使用祕訣
+# Jupyter Notebook 使用祕訣
 ###### 清大資應所 蔡念澄 整理
 
 ## Kernel
@@ -45,7 +45,7 @@
 	```
 	
 * `Ctrl`+`/` 註解一行或所選程式碼
-	* macOS 也可用`⌘`+`/`
+	* macOS 也可用 `⌘`+`/`
 
 * `D`+`D` 刪除 cell
 
@@ -70,7 +70,7 @@
 
 * 選擇多個 cells 後`Shift`+`M` 合併成一個 cell![merge cells](images/multi-merge.gif)
 
-* `Alt`+`mouse selection`然後`←`/`→` 產生多行游標![multi-cursor](images/multi-cursor.gif)
+* `Alt`+`mouse selection` 然後 `←`/`→` 產生多行游標![multi-cursor](images/multi-cursor.gif)
 
 * `Ctrl`+`mouse clicks`在想要的數個地方設游標
 	* 此 gif 包含上一個操作![multi-click](images/multi-click.gif)
