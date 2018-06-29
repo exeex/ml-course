@@ -9,6 +9,12 @@
 ## 投影片
 [https://github.com/exeex/ml-course-slide](https://github.com/exeex/ml-course-slide)
 
+## 來自Google的免費GPU : Google CoLab
+介紹  
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d  
+網址  
+https://colab.research.google.com/notebooks/welcome.ipynb#recent=true  
+
 ## 發問區
 Python相關問題可以到Python Taiwan FB社團發問，回應速度相當快。  
 對於本課程問題，可以在[*此處*](https://github.com/exeex/ml-course/issues)發問(須註冊github帳號)  
